@@ -37,7 +37,7 @@ const techStack = {
 
 ## 📫 Connect With Me
 
-- 🐦 Twitter: [@gunpark_dev](https://twitter.com/gunpark_dev)
-- 🧠 Blog: [gunpark.dev](https://gunpark.dev)
+- 🐦 x: [@gunpark_dev](https://twitter.com/gunpark_dev)
+<!-- - 🧠 Blog: [gunpark.dev](https://gunpark.dev) -->
 
 ---
