@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👊 Gun Park — Bold. Clean. Relentless.
 
-<!--
-**jonggeon02/jonggeon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! I'm **Gun Park** (not my real name 😉), a developer with a sharp edge — just like my namesake.  
+Inspired by Korean strength, street style, and clean execution, I build code the way Jong Geon throws punches — precise and impactful.  
+Currently crafting immersive VR experiences, sleek web apps, and AI-powered tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Arsenal
+
+```ts
+const techStack = {
+  language: ["JavaScript", "TypeScript", "Python", "C#"],
+  frontend: ["Next.js", "React", "TailwindCSS", "Three.js"],
+  backend: ["Node.js"],
+  gameDev: ["Unity", "C#", "XR Toolkit", "OpenXR"],
+  tools: ["Git", "VS Code", "Figma", "Postman", "Notion"]
+}
+```
+
+---
+
+## 🎯 Current Focus
+
+- 📈 Building Website
+- 🧠 Exploring **AI integration** in web
+
+---
+
+## 🧪 Dev Style
+
+> Like Park Jong Geon, I don’t talk much —  
+> but when I do, it's clean code, structured systems, and no wasted motion.  
+> If you're looking for style *and* strength, you’re in the right repo.
+
+---
+
+## 📫 Connect With Me
+
+- 🐦 Twitter: [@gunpark_dev](https://twitter.com/gunpark_dev)
+- 🧠 Blog: [gunpark.dev](https://gunpark.dev)
+
+---
